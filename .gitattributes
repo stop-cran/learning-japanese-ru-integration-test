@@ -1,0 +1,14 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.json text eol=lf
+strokes/*.json -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+*.py text eol=lf
+*.webp binary
+*.ogg binary
+
+/.github export-ignore
+/.github/** export-ignore
+/docs export-ignore
+/docs/** export-ignore
+/tools export-ignore
+/tools/** export-ignore
