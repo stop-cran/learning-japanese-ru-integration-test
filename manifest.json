@@ -1,8 +1,8 @@
 {
  "baseLanguage": "ru",
- "contentVersion": "7071848b5d099d42",
+ "contentVersion": "afe5c99e66524d95",
  "files": {
-  "kanji/人.md": "0000000000000000000000000000000000000000000000000000000000000000",
+  "kanji/人.md": "bbd5ab0fd2ac070ea101e29f486521dfe426c853a8b2bf147c8892d4075eaff2",
   "kanji/口.md": "1ab87c95a5b69b4f435baca58c8848a085fb252ec21fca6acbacec3056a3eb0e",
   "kanji/大.md": "961221be4af7e5db91fa54780b972a6bd6539c55c9e7175f9fffa5afd1f0e319",
   "kanji/山.md": "833f182653100eb0261d97f27420493a99ace8adb073b3bf462b6f02f52be2c1",
