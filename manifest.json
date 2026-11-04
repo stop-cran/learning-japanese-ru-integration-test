@@ -1,5 +1,4 @@
 {
- "baseLanguage": "ru",
  "contentVersion": "afe5c99e66524d95",
  "files": {
   "kanji/人.md": "bbd5ab0fd2ac070ea101e29f486521dfe426c853a8b2bf147c8892d4075eaff2",
@@ -54,6 +53,5 @@
   "words/火.md": "e05692676602ea6df7eb8794f81601c195b21a44fce58a2544f114b43c5d287f",
   "words/火山.md": "9578c579e047e414dac781a0ac95f48ba9ba6286c791717c19f62563b1b8745a"
  },
- "schemaVersion": 2,
- "targetLanguage": "ja"
+ "schemaVersion": 2
 }
